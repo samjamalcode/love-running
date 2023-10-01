@@ -18,13 +18,16 @@ body {
     font-family: 'Lato', Sans-Serif;
 }
 
-h1,
-h2,
-h3 {
+
+h1, h2, h3 {
     font-family: 'Oswald', Sans-Serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+}
+
+.hidden-heading{
+    display: none;
 }
 
 /* Header */
