@@ -203,7 +203,14 @@ main {
     line-height: 0;
 }
 
-
+/* Form */
+#signup {
+    background-image: url("../images/signup-image.webp");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
 
 /* Footer */
 #social-networks {
